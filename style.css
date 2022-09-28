@@ -29,3 +29,10 @@ button{
     font-size: medium;
     border-radius: 0.5rem;
 }
+
+#output-box{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
